@@ -1,10 +1,10 @@
-# The Multimodal Storyteller 📖🔊🎨
+# The Multimodal Storyteller 
 
 Welcome to The Multimodal Storyteller, an interactive web application that allows you to co-create unique sagas with artificial intelligence. Set the stage for your world, guide the narrative chapter by chapter, and watch your story come to life with AI-generated art and audio narration.
 
   <!-- It's a great idea to replace this with a real screenshot of your app! -->
 
-## ✨ Key Features
+##  Key Features
 
 -   **Generative World-Building**: Establish the creative DNA of your universe by choosing a theme, a protagonist archetype, and a "strange contradiction" that makes your world unique.
 -   **Interactive & Branching Narrative**: You write the opening line, and from there, the AI generates rich story chapters and presents you with three distinct choices to steer the plot.
@@ -12,7 +12,7 @@ Welcome to The Multimodal Storyteller, an interactive web application that allow
 -   **Wildcard Story Twists**: To keep the story fresh and unpredictable, one of the three choices is always a "Wildcard" designed to subvert expectations and connect to your world's core contradiction.
 -   **Text-to-Speech Narration**: Immerse yourself in the saga by listening to it with a built-in audio player that uses your browser's native speech synthesis.
 
-## ⚙️ How It Works: A Multi-Persona AI Engine
+##  How It Works: A Multi-Persona AI Engine
 
 The application is powered by a sophisticated "master prompt" that instructs Google's Gemini model to act as a collaborative, multi-persona creative team.
 
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 -   Create a new---
 
 ````markdown
-# The Multimodal Storyteller 📖🔊🎨
+# The Multimodal Storyteller 
 
 The Multimodal Storyteller is an interactive web application that allows you to co-create unique sagas with a powerful AI ensemble. You don't just write a story; you build its universe, guide its narrative, and watch it come to life with AI-generated art and audio narration.
 
@@ -90,7 +90,7 @@ This project is built with Python and Streamlit, and it showcases a modern appro
  
 *Note: You should replace the link above with a real screenshot of your running application.*
 
-## ✨ Key Features
+## Key Features
 
 -   **Generative World-Building**: Don't start with a blank page. First, "Set the Stage" by defining your world's core theme, a protagonist archetype, and a strange, central contradiction. This creates a secret "World Bible" that gives your story a consistent and unique foundation.
 -   **Interactive, Branching Narrative**: You write the opening line, and the AI takes it from there, writing the next chapter and then presenting you with three distinct paths forward.
@@ -98,7 +98,7 @@ This project is built with Python and Streamlit, and it showcases a modern appro
 -   **"Wildcard" Choices**: To keep the story exciting and unpredictable, one of the three choices is always a "Wildcard" designed to subvert expectations or connect to your world's core contradiction.
 -   **Text-to-Speech Narration**: Listen to your unfolding saga with a built-in audio player that uses your browser's native speech synthesis engine.
 
-## ⚙️ How It Works: A Multi-Persona AI Ensemble
+## How It Works: A Multi-Persona AI Ensemble
 
 The core of this application is a sophisticated prompting technique that instructs a single LLM (Google's Gemini) to act as a team of three creative experts:
 
@@ -121,7 +121,7 @@ streamlit run app.py
 
 Your browser should automatically open a new tab with the running application.
 
-## ☁️ Deployment on Streamlit Community Cloud
+##  Deployment on Streamlit Community Cloud
 
 1.  Push your project (including `app.py`, `requirements.txt`, etc.) to a public GitHub repository. **Do not commit your `.env` file!**
 2.  Go to [share.streamlit.io](https://share.streamlit.io) and sign in.
