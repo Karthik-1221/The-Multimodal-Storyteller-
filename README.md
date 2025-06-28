@@ -1,6 +1,3 @@
-# The-Multimodal-Storyteller-
-An AI storyteller where you're the co-author.et the stage for your world, then guide the story with your choices. Each chapter comes to life with custom AI-generated art and audio narration, powered by Gemini &amp; Stable Diffusion.
-
 # The Multimodal Storyteller 📖🔊🎨
 
 Welcome to The Multimodal Storyteller, an interactive web application that allows you to co-create unique sagas with artificial intelligence. Set the stage for your world, guide the narrative chapter by chapter, and watch your story come to life with AI-generated art and audio narration.
@@ -51,10 +48,10 @@ Follow these steps to run the application on your local machine.
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/multimodal-storyteller.git
+git clone https://github.com/Karthik-1221/The-Multimodal-Storyteller-.git
 cd multimodal-storyteller
 ```
-*(Replace `your-username` with your actual GitHub username)*
+
 
 ### 3. Set Up a Virtual Environment
 
